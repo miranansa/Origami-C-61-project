@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color:fuchsia;
+}
+.line {
+    width: 100px;
+    height: 5px;
+    background-color: dimgrey;
+    margin: auto;
+}
+img{
+    width: 600px;
+    height: 500px;
+}
+.d1 h3{
+    display:inline;
+}
